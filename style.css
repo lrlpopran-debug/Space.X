@@ -1,0 +1,115 @@
+.logo {
+    background-image: url(everestlogo.png);
+    width: 60px;
+    height: 60px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    color: white;
+    gap: 40px;
+}
+
+nav a:hover {
+    border-bottom: 2px solid white;
+
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    gap: 20px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 1000px;
+    color: white;
+}
+
+.box {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+header {
+    background-image: url(./Background\ \(12\).svg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.box p {
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+.everest h1 {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.everest{
+    color: white;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.everest button {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: dodgerblue;
+
+}
+
+
+
+.ustozlar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ava {
+    color: #FFB800;
+    background-color: #F1F1F1;
+    width: 400px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.box {
+    width: 516px;
+    height: 669px;
+    border-radius: 15px;
+    background-color: #F5F5F5;
+    text-align: center;
+    color: black;
+    border: 2px solid grey;
+    margin: 30px;
+}
+.eng{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.bizning{
+    text-align: center;
+}
+.ourteachers{
+    text-align: center;
+
+}
